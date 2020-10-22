@@ -1,17 +1,4 @@
-/*escreval ("digite o nome do aluno")
-leia(nome)
-escreval ("digite a notaA do aluno")
-leia(notaA)
-escreval ("digite a notaB do aluno")
-leia(notaB)
-media := (notaA + notaB) / 2
 
- se media >= 5 entao
-escreval ("aprovado!", nome)
-senao
-escreval ("reprovado!", nome)
-fimse
-*/
 var nome, nota1, nota2, passou;
 passou = false;
 
